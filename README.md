@@ -62,6 +62,43 @@ After performing the above cleaning steps:
 ### Cleaned Dataset
 - **File Name**: `cleaned_dataset.xlsx`
 
+  
+
+## Step 2: Exploratory Data Analysis (EDA)
+
+### 1. Visualize Brand Popularity
+- **Objective**: Identify the most common brands in the dataset.
+- **Steps**:
+  - Created a bar chart using a Pivot Table to count occurrences of each brand.
+  - Sorted the chart by frequency to display the most popular brands.
+- **Outcome**: A visualization highlighting the most common brands in the dataset.
+
+---
+
+### 2. Analyze Price Distribution
+- **Objective**: Understand pricing trends across products.
+- **Steps**:
+  - Created a histogram to group prices into bins and identify clusters.
+  - Used a box plot to highlight price spread, outliers, and median values.
+
+---
+
+### 3. Gender-Based Preferences
+- **Objective**: Explore preferences for product type, color, and price range by gender.
+- **Steps**:
+  - Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
+  - Created side-by-side bar charts for type and color preferences.
+  - Analyzed price preferences using averages and ranges.
+
+---
+
+### 4. Material and Price Relationship
+- **Objective**: Understand how material types influence pricing.
+- **Steps**:
+  - Created a scatter plot to visualize the relationship between `Material` and `Price`.
+  - Summarized trends using a bar chart of average prices for each material.
+
+
 
 
 
