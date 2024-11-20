@@ -31,7 +31,7 @@
   2. Used the **Remove Duplicates** feature:
      - Went to **Data > Remove Duplicates**, selected all columns, and clicked **OK**.
   3. Reviewed the results to ensure only duplicate rows were removed.
-- **Outcome**: Duplicate rows were removed, ensuring unique entries in the dataset.
+- **Outcome**: 82 Duplicate rows were removed, ensuring 924 unique entries in the dataset.
 
 ---
 
@@ -84,7 +84,7 @@ After performing the above cleaning steps:
 ---
 
 ### 3. Gender-Based Preferences
-- **Objective**: Explore preferences for product type, color, and price range by gender.
+- **Objective**: Explore preferences for product type, color, and brand by gender.
 - **Steps**:
   - Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
   - Created side-by-side bar charts for type and color preferences.
@@ -95,9 +95,9 @@ After performing the above cleaning steps:
 ### 4. Material and Price Relationship
 - **Objective**: Understand how material types influence pricing.
 - **Steps**:
-  - Created a scatter plot to visualize the relationship between `Material` and `Price`.
   - Summarized trends using a bar chart of average prices for each material.
 
+- **File Name**: `EDA.xlsx`
 
 
 
