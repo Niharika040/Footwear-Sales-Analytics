@@ -17,7 +17,6 @@
 - **Problem**: Column names were inconsistent (e.g., mixed casing, spaces, special characters).
 - **Solution**:
   - Renamed all column headers to follow a consistent naming convention:
-    - Replaced spaces with underscores (e.g., `Monthly Charges` → `monthly_charges`).
     - Converted all names to lowercase for uniformity.
     - Removed special characters.
 - **Outcome**: Column names are standardized, making the dataset more readable and easier to use in formulas or code.
