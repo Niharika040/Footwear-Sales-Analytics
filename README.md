@@ -84,7 +84,7 @@ After performing the above cleaning steps:
 ---
 
 ### 3. Gender-Based Preferences
-- **Objective**: Explore preferences for product type, color, and brand by gender.
+- **Objective**: Explore product type and brand preferences by gender.
 - **Steps**:
   - Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
   - Created side-by-side bar charts for type and color preferences.
