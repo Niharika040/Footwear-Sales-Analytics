@@ -69,8 +69,9 @@ After performing the above cleaning steps:
 - **Objective**: Identify the most common brands in the dataset.
 - **Steps**:
   - Created a bar chart using a Pivot Table to count occurrences of each brand.
-  - Sorted the chart by frequency to display the most popular brands.
-- **Outcome**: A visualization highlighting the most common brands in the dataset.
+  - Sorted the chart by count to display the most popular brands.
+- **Outcome**: The analysis shows that New Balance (98), Fila (97), and Nike/Asics (95) are the top brands in terms of frequency in the dataset.
+- These brands dominate the market and likely have higher customer demand compared to others.
 
 ---
 
