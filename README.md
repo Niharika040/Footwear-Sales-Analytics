@@ -84,8 +84,22 @@ After performing the above cleaning steps:
 - **Outcome**:
         Histogram
     - The histogram groups prices into bins and reveals key insights:
-        Most products fall within the price ranges of 53–81 and 95–123, indicating popular mid-range price clusters. There is a significant drop in products priced above 
-        165, showing that higher-end products are less common. Few outliers are visible in the highest price ranges (249–263).
+        Most products fall within the price ranges of 67–81, indicating 
+        popular mid-range price clusters. There is a significant drop in 
+        products priced above 165, showing that higher-end products are 
+        less common. Few outliers are visible in the highest price ranges 
+        (249–263).
+      
+        Box Plot
+   -The box plot highlights the following:
+       Median Price: Centered within the range of approximately 90, 
+       indicating the most typical price point.
+       Interquartile Range (IQR): The central 50% of the data falls between 
+       75 and 125, showcasing the typical price spread.
+       Outlier: A single price exceeds 200, identifying a high-priced 
+       outlier.
+       The range of prices is evenly distributed below the median, 
+       with no significant skew.
 
 ---
 
