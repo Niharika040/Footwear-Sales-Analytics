@@ -82,15 +82,14 @@ After performing the above cleaning steps:
   - Created a histogram to group prices into bins and identify clusters.
   - Used a box plot to highlight price spread, outliers, and median values.
 - **Outcome**:
-        Histogram
+        Histogram and Box plot
     - The histogram groups prices into bins and reveals key insights:
         Most products fall within the price ranges of 67–81, indicating 
         popular mid-range price clusters. There is a significant drop in 
         products priced above 165, showing that higher-end products are 
         less common. Few outliers are visible in the highest price ranges 
         (249–263).
-      
-        Box Plot
+           
    -The box plot highlights the following:
        Median Price: Centered within the range of approximately 90, 
        indicating the most typical price point.
