@@ -90,7 +90,7 @@ After performing the above cleaning steps:
         less common. Few outliers are visible in the highest price ranges 
         (249–263).
            
-   -The box plot highlights the following:
+    -The box plot highlights the following:
        Median Price: Centered within the range of approximately 90, 
        indicating the most typical price point.
        Interquartile Range (IQR): The central 50% of the data falls between 
