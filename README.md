@@ -73,7 +73,7 @@ After performing the above cleaning steps:
 - **Outcome**:
   - The analysis shows that New Balance (98), Fila (97), and Nike/Asics (95) are the top brands in terms of frequency in the dataset.
   - These brands dominate the market and likely have higher customer demand compared to others.
-
+  -  **Image Name**:image.png.png
 ---
 
 ### 2. Analyze Price Distribution
