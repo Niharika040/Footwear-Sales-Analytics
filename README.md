@@ -195,10 +195,13 @@ Analyze the average price (in USD) of products across different brands and gende
    
   **1. Enhanced Marketing Campaigns:** The strong demand for **Running Shoes** across both genders suggests the need for focused marketing campaigns. For men, promoting the 
        performance benefits, while for women, highlighting style and versatility could help increase sales further.
+       
   **2. Inventory Planning:** **Running Shoes and Casual** Shoes should receive more inventory to meet demand, while underperforming categories like **Hiking** and 
       **Crossfit** may need to be de-prioritized or adjusted based on inventory turnover.
+      
   **3. Pricing Optimization:** The analysis revealed a significant variation in prices by brand. High-end brands like **Nike** and **Adidas** should continue targeting the 
        premium market, while lower-priced options like **Skechers** and **Vans** could attract more budget-conscious customers.
+       
   **4. Material Cost Strategy:** The analysis of material types and their associated prices suggests that products using high-performance materials such as **Primeknit** 
        and **Flyknit** are priced higher. These premium materials can be leveraged to position the brand as a high-quality, performance-driven footwear company.
        
