@@ -1,13 +1,22 @@
 # Footwear-Sales-Analytics
 
 ## Project Overview
-The Footwear Sales Analytics project is an in-depth analysis of a footwear dataset sourced from Kaggle, aimed at uncovering insights into customer buying behaviors, sales trends, and market preferences across different brands, price ranges, and product categories. This dataset contains comprehensive data on various shoe types, their prices, brands, and categories. The dataset was collected to analyze footwear sales trends, understand customer preferences, and identify opportunities for business optimization.
+The Footwear Sales Analytics project leverages a comprehensive dataset sourced from Kaggle (link: Kaggle Dataset), providing valuable insights into footwear sales trends, customer buying behaviors, and market preferences. The dataset covers various aspects of the footwear market, including shoe types, pricing, brands, and categories. By analyzing this data, the project aims to uncover key patterns, optimize pricing strategies, identify emerging trends, and provide actionable recommendations for footwear brands and retailers.
 
-This project aims to use the dataset to uncover key insights about brand performance, pricing structures, and customer preferences across various shoe categories. By exploring relationships between product attributes like material type, price points, and consumer gender, the project aims to provide actionable recommendations for brands to optimize their sales strategies and boost profitability.
+This analysis focuses on popular brands like Nike, New Balance, and Fila, and shoe categories such as Running Shoes and Casual Shoes. By exploring relationships between variables like price points, materials, gender preferences, and product categories, the project offers a data-driven approach to enhancing sales performance, inventory management, and targeted marketing.
 
-With a focus on the most popular brands such as Nike, New Balance, and Fila, and product categories like Running Shoes and Casual Shoes, this project reveals emerging trends and hidden patterns that can help footwear brands tailor their marketing campaigns, manage inventory more effectively, and refine their pricing strategies.
+The dataset contains the following key attributes:
 
-By combining data-driven insights with practical business strategies, this project equips footwear companies with the tools to make more informed, strategic decisions in a competitive market.
+ - Brand: The brand of the footwear (e.g., Nike, New Balance).
+ - Type: The product type (e.g., Running Shoes, Casual Shoes).
+ - Gender: The target gender for the footwear (e.g., Men, Women).
+ - Size: The purchased sizes for each shoe (e.g., 7, 8, 9, etc.).
+ - Color: The color(s) of the footwear (e.g., Black, Red, Blue
+ - Material - The type of material used (e.g., Mesh, Leather, Synthetic).
+ - Price(USD) - The price of the footwear.
+
+ 
+With the goal of driving better business strategies, this project provides footwear companies with actionable insights, enabling them to fine-tune their marketing campaigns, optimize their pricing structures, and make data-driven decisions to improve profitability and customer satisfaction.
 
 In this project, Excel was used for data cleaning and exploratory analysis.
 
