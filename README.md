@@ -140,27 +140,29 @@ Analyze preferences for product type and categories among gender groups to deriv
 
 - **Outcome**:
 
-   - **Men's Preference**:
+   - **Men's Preference** [Sales Chart Visualization](./Sales_Analysis/Mens_product_preference.png)
       - **Running** shoes are the most popular product category for men.
       - **Casual** and **Skate** are also important but significantly less popular than running shoes.
-      - [Sales Chart Visualization](./Sales_Analysis/Mens_product_preference.png)
+      
      
 
-   - **Women's Preference**
+   - **Women's Preference** [Sales Chart Visualization](./Sales_Analysis/women_gender_preference.png
       - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
           competitor.
       - Women also have a higher preference for **Skate** and **Walking** products compared to men.
-      - [Sales Chart Visualization](./Sales_Analysis/women_gender_preference.png)
+   
 
 - **Actionable Recommendations**:
-      1. **Personalized Marketing Campaigns**:
-            - Based on the strong preference for Running shoes among both men and women, create targeted ads highlighting 
-           the benefits for each gender. For men, focus on performance and endurance. For women, highlight the versatility and 
-           fashion-forward aspects of running shoes, emphasizing stylish designs.
-      2.**Optimize Inventory Allocation**:
+  1. **Personalized Marketing Campaigns**:
+          - Based on the strong preference for Running shoes among both men and women, create targeted ads highlighting 
+           the benefits for each gender. For men, focus on performance and endurance. For women, highlight the versatility 
+           and fashion-forward aspects of running shoes, emphasizing stylish designs.
+  
+    2.**Optimize Inventory Allocation**:
            - Increase inventory in **Running** and **Casual** shoes based on high demand. For products with low demand
            (e.g.,**Hiking** and **Crossfit**), reduce stock levels or consider phasing them out.
-      3. **Gender-Specific Campaigns**:  
+  
+  3. **Gender-Specific Campaigns**:  
             - Design marketing materials and campaigns that address the different preferences between men and women. For 
            women, campaigns could feature more **Casual** and **Skate** products with a fashion-forward angle. For men, 
            campaigns should focus on performance-based products like **Running** and **Casual** shoes, along with sporty, 
