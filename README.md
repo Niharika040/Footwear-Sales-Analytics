@@ -73,7 +73,7 @@ After performing the above cleaning steps:
 - **Outcome**:
   - The analysis shows that New Balance (98), Fila (97), and Nike/Asics (95) are the top brands in terms of frequency in the dataset.
   - These brands dominate the market and likely have higher customer demand than others.
-  -  [Sales Chart Visualization](./Sales_Analysis/brand_popularity.png)
+  - [Sales Chart Visualization](./Sales_Analysis/brand_popularity.png)
 ---
 
 ### 2. Analyze Price Distribution
@@ -89,7 +89,7 @@ After performing the above cleaning steps:
         products priced above 165, showing that higher-end products are 
         less common. Few outliers are visible in the highest price ranges 
         (249–263).
-       - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
+    - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
       
     - The box plot highlights the following:
       
@@ -118,13 +118,14 @@ Analyze preferences for product type and categories among gender groups to deriv
    - **Men's Preference**:
       - **Running** shoes are the most popular product category for men.
       - **Casual** and **Skate** are also important but significantly less popular than running shoes.
-      - - [Sales Chart Visualization](./Sales_Analysis/Mens_product_preference.png)
+      - [Sales Chart Visualization](./Sales_Analysis/Mens_product_preference.png)
      
 
    - **Women's Preference**
       - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
           competitor.
       - Women also have a higher preference for **Skate** and **Walking** products compared to men.
+      - [Sales Chart Visualization](./Sales_Analysis/women_gender_preference.png)
 
 - **Actionable Recommendations**:
       1. **Personalized Marketing Campaigns**:
