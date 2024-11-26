@@ -111,6 +111,7 @@ After performing the above cleaning steps:
   - Generated a Clustered Bar Chart to visualize preferences by product 
     type.
 - **Insights and Recommendation**:
+  
     **Men's Preferences**:
   - **Running** shoes are the most popular product category for men.
   - **Casual** and **Skate** are also important but significantly less popular than running shoes.
@@ -119,7 +120,28 @@ After performing the above cleaning steps:
   - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
        competitor.
   - Women also have a higher preference for **Skate** and **Walking** products compared to men.
-  
+ 
+    **Marketing Insights**:
+
+    Targeting Men:
+  - **Focus on Running Shoes** Since running shoes are the most popular 
+       among men, marketing campaigns should emphasize product features 
+       that appeal to men, such as performance, comfort, and durability.
+  - **Casual Shoes** Promote casual shoes as a secondary offering, perhaps 
+      focusing on comfort and style for everyday wear.
+  -**Special Promotions for Skate Shoes** Although less popular, there is a 
+     dedicated market segment for skate shoes. Offering targeted promotions 
+    or limited-edition designs could help capture more interest.
+
+  Targeting Women:
+  -**Highlight Running and Casual Shoes** Since both running and casual 
+     shoes are popular among women, marketing should emphasize versatility, 
+     combining style with performance.
+  -**Increased Focus on Skate Shoes** Women show more interest in skate 
+    shoes compared to men. Tailored marketing for this segment, with trendy 
+    designs, could increase sales.
+  -**Walking Shoes** Women's preference for walking shoes indicates an 
+   opportunity for promoting comfort-focused product lines.
 
 ---
 
