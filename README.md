@@ -200,7 +200,8 @@ Analyze the average price (in USD) of products across different brands and gende
 - **Steps**:
     - Filtered data to group products by their material types.
     - Calculated the average price for each material type using pivot tables.
-    - Visualized the data using a bar chart to compare the average price of products by mat
+    - Visualized the data using a bar chart to compare the average price of products by material
+
 - **Outcome**:[Sales Chart Visualization](./Sales_Analysis/material_price.png)
     - **Primeknit/Synthetic** has the highest average price at **$220**.
     - **Flyknit** follows closely with an average price of **$158.82**.
