@@ -118,6 +118,8 @@ Analyze preferences for product type and categories among gender groups to deriv
    - **Men's Preference**:
       - **Running** shoes are the most popular product category for men.
       - **Casual** and **Skate** are also important but significantly less popular than running shoes.
+      - - [Sales Chart Visualization](./Sales_Analysis/Mens_product_preference.png)
+     
 
    - **Women's Preference**
       - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
