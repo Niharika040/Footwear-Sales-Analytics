@@ -1,4 +1,4 @@
-# Footwear-Sales-Analytics
+# Footwear Sales Analytics
 
 ## Project Overview
 The Footwear Sales Analytics project leverages a comprehensive dataset sourced from Kaggle, providing valuable insights into footwear sales trends, customer buying behaviors, and market preferences. The dataset covers various aspects of the footwear market, including shoe types, pricing, brands, and categories. By analyzing this data, the project aims to uncover key patterns, optimize pricing strategies, identify emerging trends, and provide actionable recommendations for footwear brands and retailers.
@@ -214,6 +214,8 @@ Analyze the average price (in USD) of products across different brands and gende
         these materials could emphasize performance and premium design in their marketing campaigns.
     - **Cost Optimization**: **Nylon** and **Canvas** products are priced lower, suggesting opportunities for cost- 
         effective product lines targeting budget-conscious consumers.
+
+      [outcomes](./outcomes.xlsx) file contain all the pivot charts and visualization of the footwear sales analytics dataset.
 
 ## Conclusion: Strategic Recommendations Focused on Sales Optimization
 
