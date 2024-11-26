@@ -142,6 +142,28 @@ Analyze preferences for product type and categories among gender groups to deriv
            functional messages.
 
 ---
+### 4.Pricing Analysis by Gender and Brand
+
+- **Objective**:
+Analyze the average price (in USD) of products across different brands and gender groups to gain insights into pricing trends.
+
+- **Steps**:
+- Calculated the average price of products for each brand, separated by gender.
+- Used pivot tables to organize the average prices of products by brand and gender.
+- Analyzed the pricing patterns to identify trends for each gender and brand.
+  
+- **Outcome**:
+  - **Men's Products**:
+     - On average, **Nike** and **Adidas** have the highest-priced products for men. **Vans** and **Skechers** offer more budget-friendly options for men.
+
+  - **Women's Products**:
+      - **Nike** and **Adidas** continue to lead with higher-priced products for women.**Skechers** and **Vans** are also 
+ more affordable for women.
+
+- **Actionable Recommendations**:
+   - **Price Differentiation Strategy**: Consider offering gender-specific discounts or promotions for budget-conscious consumers, particularly with brands like **Skechers** and **Vans**.
+   - **Brand Positioning**: High-end brands such as **Nike** and **Adidas** can target a premium market by maintaining higher prices, while exploring potential product diversification at lower price points to cater to a wider customer base.
+
 
 ### 4. Material and Price Relationship
 - **Objective**: Understand how material types influence pricing.
