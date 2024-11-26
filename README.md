@@ -89,7 +89,7 @@ After performing the above cleaning steps:
         products priced above 165, showing that higher-end products are 
         less common. Few outliers are visible in the highest price ranges 
         (249–263).
-      - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation_box.png) and 
+      - 
       
     - The box plot highlights the following:
         Median Price: Centered within the range of approximately 90, indicating the most typical price point.
@@ -98,7 +98,7 @@ After performing the above cleaning steps:
         Outlier: A single price exceeds 200, identifying a high-priced outlier.
         The range of prices is evenly distributed below the median, 
         with no significant skew.
-      - [Sales Chart Visualization](./Sales_Analysis/Price_Distrubation box.png)
+       - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation_box.png)
        
         
 
