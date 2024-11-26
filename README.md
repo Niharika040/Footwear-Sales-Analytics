@@ -117,18 +117,22 @@ After performing the above cleaning steps:
   - **Casual** and **Skate** are also important but significantly less popular than running shoes.
 
     **Women's Preferences**:
+    
   - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
        competitor.
   - Women also have a higher preference for **Skate** and **Walking** products compared to men.
  
-    **Actionable Recommendations**:
+-**Actionable Recommendations**:
+
       -Personalized Marketing Campaigns: Based on the strong preference for Running shoes among both men and women, create 
        targeted ads highlighting the benefits for each gender. For men, the focus could be on performance and endurance. 
        For women highlights the versatility and fashion-forward aspects of running shoes, with an emphasis on stylish 
        designs.
+
       -Optimize Inventory Allocation: Based on the high preference for Running and Casual shoes, increase inventory in 
        these categories. For products with low demand (e.g., Hiking and Crossfit), reduce stock levels or consider phasing 
        them out.
+       
       -Gender-Specific Campaigns: Design marketing materials and campaigns that address the different preferences between 
       men and women. Women’s marketing campaigns could feature more Casual and Skate products, along with a fashion-forward 
       angle.Men’s campaigns should focus more on performance-based products like Running and Casual shoes, along with 
