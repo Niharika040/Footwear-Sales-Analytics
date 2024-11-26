@@ -89,7 +89,8 @@ After performing the above cleaning steps:
         products priced above 165, showing that higher-end products are 
         less common. Few outliers are visible in the highest price ranges 
         (249–263).
-      - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
+      - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation_box.png)
+      
     - The box plot highlights the following:
         Median Price: Centered within the range of approximately 90, indicating the most typical price point.
         Interquartile Range (IQR): The central 50% of the data falls between 75 and 125, showcasing the typical price 
