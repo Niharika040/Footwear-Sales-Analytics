@@ -110,7 +110,7 @@ After performing the above cleaning steps:
   - Created pivot table to analyze counts for each product type.
   - Generated a Clustered Bar Chart to visualize preferences by product 
     type.
-- **Insights and Recommendation**:
+- **Outcome**:
   
     **Men's Preferences**:
   - **Running** shoes are the most popular product category for men.
@@ -121,27 +121,18 @@ After performing the above cleaning steps:
        competitor.
   - Women also have a higher preference for **Skate** and **Walking** products compared to men.
  
-    **Marketing Insights**:
-
-    Targeting Men:
-  - **Focus on Running Shoes** Since running shoes are the most popular 
-       among men, marketing campaigns should emphasize product features 
-       that appeal to men, such as performance, comfort, and durability.
-  - **Casual Shoes** Promote casual shoes as a secondary offering, perhaps 
-      focusing on comfort and style for everyday wear.
-  -**Special Promotions for Skate Shoes** Although less popular, there is a 
-     dedicated market segment for skate shoes. Offering targeted promotions 
-    or limited-edition designs could help capture more interest.
-
-  Targeting Women:
-  -**Highlight Running and Casual Shoes** Since both running and casual 
-     shoes are popular among women, marketing should emphasize versatility, 
-     combining style with performance.
-  -**Increased Focus on Skate Shoes** Women show more interest in skate 
-    shoes compared to men. Tailored marketing for this segment, with trendy 
-    designs, could increase sales.
-  -**Walking Shoes** Women's preference for walking shoes indicates an 
-   opportunity for promoting comfort-focused product lines.
+    **Actionable Recommendations**:
+      -Personalized Marketing Campaigns: Based on the strong preference for Running shoes among both men and women, create 
+       targeted ads highlighting the benefits for each gender. For men, the focus could be on performance and endurance. 
+       For women highlights the versatility and fashion-forward aspects of running shoes, with an emphasis on stylish 
+       designs.
+      -Optimize Inventory Allocation: Based on the high preference for Running and Casual shoes, increase inventory in 
+       these categories. For products with low demand (e.g., Hiking and Crossfit), reduce stock levels or consider phasing 
+       them out.
+      -Gender-Specific Campaigns: Design marketing materials and campaigns that address the different preferences between 
+      men and women. Women’s marketing campaigns could feature more Casual and Skate products, along with a fashion-forward 
+      angle.Men’s campaigns should focus more on performance-based products like Running and Casual shoes, along with 
+      sporty,functional messages.
 
 ---
 
