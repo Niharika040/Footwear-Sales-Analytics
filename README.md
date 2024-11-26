@@ -1,7 +1,7 @@
 # Footwear-Sales-Analytics
 
 ## Project Overview
-The Footwear Sales Analytics project leverages a comprehensive dataset sourced from Kaggle (link: Kaggle Dataset), providing valuable insights into footwear sales trends, customer buying behaviors, and market preferences. The dataset covers various aspects of the footwear market, including shoe types, pricing, brands, and categories. By analyzing this data, the project aims to uncover key patterns, optimize pricing strategies, identify emerging trends, and provide actionable recommendations for footwear brands and retailers.
+The Footwear Sales Analytics project leverages a comprehensive dataset sourced from Kaggle [(link: Kaggle Dataset](https://www.kaggle.com/datasets/rkiattisak/shoe-prices-dataset/code?datasetId=3000086)), providing valuable insights into footwear sales trends, customer buying behaviors, and market preferences. The dataset covers various aspects of the footwear market, including shoe types, pricing, brands, and categories. By analyzing this data, the project aims to uncover key patterns, optimize pricing strategies, identify emerging trends, and provide actionable recommendations for footwear brands and retailers.
 
 This analysis focuses on popular brands like Nike, New Balance, and Fila, and shoe categories such as Running Shoes and Casual Shoes. By exploring relationships between variables like price points, materials, gender preferences, and product categories, the project offers a data-driven approach to enhancing sales performance, inventory management, and targeted marketing.
 
