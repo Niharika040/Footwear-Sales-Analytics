@@ -166,12 +166,25 @@ Analyze the average price (in USD) of products across different brands and gende
    - **Brand Positioning**: High-end brands such as **Nike** and **Adidas** can target a premium market by maintaining higher prices, while exploring potential product diversification at lower price points to cater to a wider customer base.
 
 
-### 4. Material and Price Relationship
-- **Objective**: Understand how material types influence pricing.
+### 5. Material and Price Relationship
+- **Objective**: Analyze the relationship between different materials used in product manufacturing and their average price 
+    to uncover trends in material costs.
 - **Steps**:
-  - Summarized trends using a bar chart of average prices for each material.
+    - Filtered data to group products by their material types.
+    - Calculated the average price for each material type using pivot tables.
+    - Visualized the data using a bar chart to compare the average price of products by mat
+- **Outcome**:
+    - **Primeknit/Synthetic** has the highest average price at **$220**.
+    - **Flyknit** follows closely with an average price of **$158.82**.
+    - **Nylon** and **Canvas** are the least expensive materials, with average prices around **$63**.
+    - **Mesh/Leather** shows a significantly higher average price of **$180**, indicating a premium for this material 
+        combination.
 
-- **File Name**: `EDA.xlsx`
+- **Actionable Recommendations**:
+    - **Pricing Strategy**: Materials like **Primeknit** and **Flyknit** are associated with higher prices. Brands using 
+        these materials could emphasize performance and premium design in their marketing campaigns.
+    - **Cost Optimization**: **Nylon** and **Canvas** products are priced lower, suggesting opportunities for cost- 
+        effective product lines targeting budget-conscious consumers.
 
 
 
