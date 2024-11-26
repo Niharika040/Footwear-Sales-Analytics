@@ -125,11 +125,12 @@ Analyze preferences for product type and categories among gender groups to deriv
       - Women also have a higher preference for **Skate** and **Walking** products compared to men.
 
 - **Actionable Recommendations**:
-     1. **Personalized Marketing Campaigns**:  
-     Based on the strong preference for Running shoes among both men and women, create targeted ads highlighting the 
-        benefits for each gender.  
-   - For men, focus on performance and endurance.  
-   - For women, highlight versatility and fashion-forward aspects of running shoes, emphasizing stylish designs.
+      1. **Personalized Marketing Campaigns**:
+  
+           -Based on the strong preference for Running shoes among both men and women, create targeted ads highlighting the 
+             benefits for each gender.  
+           - For men, focus on performance and endurance.  
+           - For women, highlight versatility and fashion-forward aspects of running shoes, emphasizing stylish designs.
 
    2. **Optimize Inventory Allocation**:  
    - Increase inventory in **Running** and **Casual** shoes based on high demand.  
