@@ -148,9 +148,9 @@ Analyze preferences for product type and categories among gender groups to deriv
 Analyze the average price (in USD) of products across different brands and gender groups to gain insights into pricing trends.
 
 - **Steps**:
-- Calculated the average price of products for each brand, separated by gender.
-- Used pivot tables to organize the average prices of products by brand and gender.
-- Analyzed the pricing patterns to identify trends for each gender and brand.
+   - Calculated the average price of products for each brand, separated by gender.
+   - Used pivot tables to organize the average prices of products by brand and gender.
+   - Analyzed the pricing patterns to identify trends for each gender and brand.
   
 - **Outcome**:
   - **Men's Products**:
