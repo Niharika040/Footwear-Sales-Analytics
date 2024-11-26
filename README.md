@@ -92,10 +92,13 @@ After performing the above cleaning steps:
       - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
     - The box plot highlights the following:
         Median Price: Centered within the range of approximately 90, indicating the most typical price point.
-        Interquartile Range (IQR): The central 50% of the data falls between 75 and 125, showcasing the typical price spread.
+        Interquartile Range (IQR): The central 50% of the data falls between 75 and 125, showcasing the typical price 
+        spread.
         Outlier: A single price exceeds 200, identifying a high-priced outlier.
         The range of prices is evenly distributed below the median, 
         with no significant skew.
+       - [Sales Chart Visualization](./Sales_Analysis/Price_Distrubation box.png)
+        
 
 ---
 
