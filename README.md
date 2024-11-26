@@ -159,7 +159,7 @@ Analyze the average price (in USD) of products across different brands and gende
   - **Women's Products**:
       - **Nike** and **Adidas** continue to lead with higher-priced products for women.**Skechers** and **Vans** are also 
  more affordable for women.
-
+ - [Sales Chart Visualization](./Sales_Analysis/brand_popularity.png)
 - **Actionable Recommendations**:
    - **Price Differentiation Strategy**: Consider offering gender-specific discounts or promotions for budget-conscious consumers, particularly with brands like **Skechers** and **Vans**.
    - **Brand Positioning**: High-end brands such as **Nike** and **Adidas** can target a premium market by maintaining higher prices, while exploring potential product diversification at lower price points to cater to a wider customer base.
