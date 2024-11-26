@@ -97,7 +97,8 @@ After performing the above cleaning steps:
         Outlier: A single price exceeds 200, identifying a high-priced outlier.
         The range of prices is evenly distributed below the median, 
         with no significant skew.
-       - [Sales Chart Visualization](./Sales_Analysis/Price_Distrubation box.png)
+      - [Sales Chart Visualization](./Sales_Analysis/Price_Distrubation box.png)
+       
         
 
 ---
