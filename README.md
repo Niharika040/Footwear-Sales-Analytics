@@ -95,10 +95,10 @@ After performing the above cleaning steps:
 - **Steps**:
   - Created a bar chart using a Pivot Table to count occurrences of each brand.
   - Sorted the chart by count to display the most popular brands.
-- **Outcome**:
+- **Outcome**: [Sales Chart Visualization](./Sales_Analysis/brand_popularity.png)
   - The analysis shows that New Balance (98), Fila (97), and Nike/Asics (95) are the top brands in terms of frequency in the dataset.
   - These brands dominate the market and likely have higher customer demand than others.
-  - [Sales Chart Visualization](./Sales_Analysis/brand_popularity.png)
+   
 ---
 
 ### 2. Analyze Price Distribution
@@ -107,22 +107,22 @@ After performing the above cleaning steps:
   - Created a histogram to group prices into bins and identify clusters.
   - Used a box plot to highlight price spread, outliers, and median values.
 - **Outcome**:
-        Histogram and Box plot
+        Histogram and Box plot [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
     - The histogram groups prices into bins and reveals key insights:
         Most products fall within the price ranges of 67–81, indicating 
         popular mid-range price clusters. There is a significant drop in 
         products priced above 165, showing that higher-end products are 
         less common. Few outliers are visible in the highest price ranges 
         (249–263).
-    - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
+   
       
-    - The box plot highlights the following:
+    - The box plot highlights the following: [Sales Chart Visualization](./Sales_Analysis/Price_distrubation_box.png)
       
         Median Price: Centered within the range of approximately 90, indicating the most typical price point.
         Interquartile Range (IQR): The central 50% of the data falls between 70 and 130, showcasing the typical price 
         spread.
         Outlier: A single price exceeds 200, identifying a high-priced outlier.
-       - [Sales Chart Visualization](./Sales_Analysis/Price_distrubation_box.png)
+      
        
         
 
@@ -177,14 +177,14 @@ Analyze the average price (in USD) of products across different brands and gende
    - Used pivot tables to organize the average prices of products by brand and gender.
    - Analyzed the pricing patterns to identify trends for each gender and brand.
   
-- **Outcome**:
+- **Outcome**: [Sales Chart Visualization](./Sales_Analysis/avg_price_distrubation.png)
   - **Men's Products**:
      - On average, **Nike** and **Adidas** have the highest-priced products for men. **Vans** and **Skechers** offer more budget-friendly options for men.
 
   - **Women's Products**:
       - **Nike** and **Adidas** continue to lead with higher-priced products for women.**Skechers** and **Vans** are also 
  more affordable for women.
- - [Sales Chart Visualization](./Sales_Analysis/avg_price_distrubation.png)
+
   
 - **Actionable Recommendations**:
    - **Price Differentiation Strategy**: Consider offering gender-specific discounts or promotions for budget-conscious consumers, particularly with brands like **Skechers** and **Vans**.
