@@ -109,15 +109,15 @@ After performing the above cleaning steps:
 Analyze preferences for product type and categories among gender groups to derive insights for marketing and inventory decisions.
 
 - **Steps**:
-- Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
-- Created a Pivot Table to analyze counts for each product type.
-- Generated a Clustered Bar Chart to visualize preferences by product type.
+   - Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
+   - Created a Pivot Table to analyze counts for each product type.
+   - Generated a Clustered Bar Chart to visualize preferences by product type.
 
 - **Outcome**:
 
-### Men's Preferences:
-- **Running** shoes are the most popular product category for men.
-- **Casual** and **Skate** are also important but significantly less popular than running shoes.
+   - **Men's Preference**:
+      - **Running** shoes are the most popular product category for men.
+      - **Casual** and **Skate** are also important but significantly less popular than running shoes.
 
 ### Women's Preferences:
 - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close competitor.
