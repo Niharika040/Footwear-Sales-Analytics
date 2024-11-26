@@ -95,7 +95,7 @@ After performing the above cleaning steps:
 - **Steps**:
   - Created a bar chart using a Pivot Table to count occurrences of each brand.
   - Sorted the chart by count to display the most popular brands.
-- **Outcome**: [Sales Chart Visualization](./Sales_Analysis/brand_popularity.png)
+- **Outcome**: [brand popularity](./Sales_Analysis/brand_popularity.png)
   - The analysis shows that New Balance (98), Fila (97), and Nike/Asics (95) are the top brands in terms of frequency in the dataset.
   - These brands dominate the market and likely have higher customer demand than others.
    
@@ -116,7 +116,7 @@ After performing the above cleaning steps:
         (249–263).
    
       
-    - The box plot highlights the following: [Price Distribution](./Sales_Analysis/Price_distrubation_box.png)
+    - The box plot highlights the following: [Price Distribution box](./Sales_Analysis/Price_distrubation_box.png)
       
         Median Price: Centered within the range of approximately 90, indicating the most typical price point.
         Interquartile Range (IQR): The central 50% of the data falls between 70 and 130, showcasing the typical price 
@@ -140,13 +140,13 @@ Analyze preferences for product type and categories among gender groups to deriv
 
 - **Outcome**:
 
-   - **Men's Preference** [Sales Chart Visualization](./Sales_Analysis/Mens_product_preference.png)
+   - **Men's Preference** [Mens product prefrence](./Sales_Analysis/Mens_product_preference.png)
       - **Running** shoes are the most popular product category for men.
       - **Casual** and **Skate** are also important but significantly less popular than running shoes.
-      
+  
      
 
-   - **Women's Preference** [Sales Chart Visualization](./Sales_Analysis/women_gender_preference.png)
+   - **Women's Preference** [women gender preference](./Sales_Analysis/women_gender_preference.png)
       - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
           competitor.
       - Women also have a higher preference for **Skate** and **Walking** products compared to men.
@@ -180,7 +180,7 @@ Analyze the average price (in USD) of products across different brands and gende
    - Used pivot tables to organize the average prices of products by brand and gender.
    - Analyzed the pricing patterns to identify trends for each gender and brand.
   
-- **Outcome**: [Sales Chart Visualization](./Sales_Analysis/avg_price_distrubation.png)
+- **Outcome**: [avg price distrubation](./Sales_Analysis/avg_price_distrubation.png)
   - **Men's Products**:
      - On average, **Nike** and **Adidas** have the highest-priced products for men. **Vans** and **Skechers** offer more budget-friendly options for men.
 
@@ -202,7 +202,7 @@ Analyze the average price (in USD) of products across different brands and gende
     - Calculated the average price for each material type using pivot tables.
     - Visualized the data using a bar chart to compare the average price of products by material
 
-- **Outcome**:[Sales Chart Visualization](./Sales_Analysis/material_price.png)
+- **Outcome**:[material price](./Sales_Analysis/material_price.png)
     - **Primeknit/Synthetic** has the highest average price at **$220**.
     - **Flyknit** follows closely with an average price of **$158.82**.
     - **Nylon** and **Canvas** are the least expensive materials, with average prices around **$63**.
@@ -215,7 +215,7 @@ Analyze the average price (in USD) of products across different brands and gende
     - **Cost Optimization**: **Nylon** and **Canvas** products are priced lower, suggesting opportunities for cost- 
         effective product lines targeting budget-conscious consumers.
 
-      [outcomes](./outcomes.xlsx) file contain all the pivot charts and visualization of the footwear sales analytics dataset.
+    The [outcomes](./outcomes.xlsx) file includes the results of all pivot tables and charts generated from the Footwear Sales Analytics dataset, providing a comprehensive overview of key insights and trends.
 
 ## Conclusion: Strategic Recommendations Focused on Sales Optimization
 
