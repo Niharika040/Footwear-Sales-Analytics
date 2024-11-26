@@ -107,7 +107,7 @@ After performing the above cleaning steps:
   - Created a histogram to group prices into bins and identify clusters.
   - Used a box plot to highlight price spread, outliers, and median values.
 - **Outcome**:
-        Histogram and Box plot [Sales Chart Visualization](./Sales_Analysis/Price_distrubation.png)
+        Histogram [Price Distribution](./Sales_Analysis/Price_distrubation.png)
     - The histogram groups prices into bins and reveals key insights:
         Most products fall within the price ranges of 67–81, indicating 
         popular mid-range price clusters. There is a significant drop in 
@@ -116,7 +116,7 @@ After performing the above cleaning steps:
         (249–263).
    
       
-    - The box plot highlights the following: [Sales Chart Visualization](./Sales_Analysis/Price_distrubation_box.png)
+    - The box plot highlights the following: [Price Distribution](./Sales_Analysis/Price_distrubation_box.png)
       
         Median Price: Centered within the range of approximately 90, indicating the most typical price point.
         Interquartile Range (IQR): The central 50% of the data falls between 70 and 130, showcasing the typical price 
