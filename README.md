@@ -9,6 +9,9 @@ With a focus on the most popular brands such as Nike, New Balance, and Fila, and
 
 By combining data-driven insights with practical business strategies, this project equips footwear companies with the tools to make more informed, strategic decisions in a competitive market.
 
+In this project, Excel was used for data cleaning and exploratory analysis.
+
+
 
 ## Step 1: Data Cleaning
 
