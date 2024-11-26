@@ -60,12 +60,12 @@ In this project, Excel was used for data cleaning and exploratory analysis.
 ---
 
 ### 4. Handle Missing Data
-- **Problem**: Missing values in the dataset can affect the accuracy of analysis.
+- **Problem**: Missing values in the dataset can affect the accuracy of the analysis.
 - **Solution**:
   - Checked for missing values:
     - Used **Conditional Formatting** to highlight blanks:
       - **Home > Conditional Formatting > Highlight Cell Rules > Blanks**.
-    - Filtered for blank cells in columns to locate them easily.
+    - Filtered blank cells in columns to locate them easily.
   - Addressed missing values:
     - Replaced missing numerical values (e.g., `Price`) with the column's average using:
       ```excel
@@ -140,7 +140,7 @@ Analyze preferences for product type and categories among gender groups to deriv
 
 - **Outcome**:
 
-   - **Men's Preference** [Mens product prefrence](./Sales_Analysis/Mens_product_preference.png)
+   - **Men's Preference** [Mens product preference](./Sales_Analysis/Mens_product_preference.png)
       - **Running** shoes are the most popular product category for men.
       - **Casual** and **Skate** are also important but significantly less popular than running shoes.
   
@@ -180,7 +180,7 @@ Analyze the average price (in USD) of products across different brands and gende
    - Used pivot tables to organize the average prices of products by brand and gender.
    - Analyzed the pricing patterns to identify trends for each gender and brand.
   
-- **Outcome**: [avg price distrubation](./Sales_Analysis/avg_price_distrubation.png)
+- **Outcome**: [avg price Distribution](./Sales_Analysis/avg_price_distrubation.png)
   - **Men's Products**:
      - On average, **Nike** and **Adidas** have the highest-priced products for men. **Vans** and **Skechers** offer more budget-friendly options for men.
 
