@@ -103,37 +103,40 @@ After performing the above cleaning steps:
 
 ---
 
-### 3. Gender-Based Preferences
-- **Objective**: Analyze preferences for product type and categories among gender groups to derive insights for marketing and inventory decisions.
-- **Steps**:
-  - Filtered data by `Gender` and analyzed preferences  using Pivot Tables and charts.
-  - Created pivot table to analyze counts for each product type.
-  - Generated a Clustered Bar Chart to visualize preferences by product 
-    type.
-- **Outcome**:
-  
-    **Men's Preferences**:
-  - **Running** shoes are the most popular product category for men.
-  - **Casual** and **Skate** are also important but significantly less popular than running shoes.
+# Gender-Based Preferences Analysis
 
-    **Women's Preferences**:
-    
-  - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
-       competitor.
-  - Women also have a higher preference for **Skate** and **Walking** products compared to men.
- 
--**Actionable Recommendations**:
-   -Personalized Marketing Campaigns: Based on the strong preference for Running shoes among both men and women, create 
-    targeted ads highlighting the benefits for each gender. For men, the focus could be on performance and endurance. 
-    For women highlights the versatility and fashion-forward aspects of running shoes, with an emphasis on stylish 
-   designs.
-   -Optimize Inventory Allocation: Based on the high preference for Running and Casual shoes, increase inventory in 
-     these categories. For products with low demand (e.g., Hiking and Crossfit), reduce stock levels or consider phasing 
-       them out.
-       -Gender-Specific Campaigns: Design marketing materials and campaigns that address the different preferences between 
-      men and women. Women’s marketing campaigns could feature more Casual and Skate products, along with a fashion-forward 
-      angle.Men’s campaigns should focus more on performance-based products like Running and Casual shoes, along with 
-      sporty,functional messages.
+## Objective:
+Analyze preferences for product type and categories among gender groups to derive insights for marketing and inventory decisions.
+
+## Steps:
+- Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
+- Created a Pivot Table to analyze counts for each product type.
+- Generated a Clustered Bar Chart to visualize preferences by product type.
+
+## Outcome:
+
+### Men's Preferences:
+- **Running** shoes are the most popular product category for men.
+- **Casual** and **Skate** are also important but significantly less popular than running shoes.
+
+### Women's Preferences:
+- **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close competitor.
+- Women also have a higher preference for **Skate** and **Walking** products compared to men.
+
+## Actionable Recommendations:
+1. **Personalized Marketing Campaigns**:  
+   Based on the strong preference for Running shoes among both men and women, create targeted ads highlighting the benefits for each gender.  
+   - For men, focus on performance and endurance.  
+   - For women, highlight versatility and fashion-forward aspects of running shoes, emphasizing stylish designs.
+
+2. **Optimize Inventory Allocation**:  
+   - Increase inventory in **Running** and **Casual** shoes based on high demand.  
+   - For products with low demand (e.g., **Hiking** and **Crossfit**), reduce stock levels or consider phasing them out.
+
+3. **Gender-Specific Campaigns**:  
+   - Design marketing materials and campaigns that address the different preferences between men and women.  
+   - For women, campaigns could feature more **Casual** and **Skate** products with a fashion-forward angle.  
+   - For men, campaigns should focus on performance-based products like **Running** and **Casual** shoes, along with sporty, functional messages.
 
 ---
 
