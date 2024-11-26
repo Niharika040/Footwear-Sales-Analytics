@@ -173,12 +173,12 @@ Analyze the average price (in USD) of products across different brands and gende
     - Filtered data to group products by their material types.
     - Calculated the average price for each material type using pivot tables.
     - Visualized the data using a bar chart to compare the average price of products by mat
-- **Outcome**:
+- **Outcome**:[Sales Chart Visualization](./Sales_Analysis/material_price.png)
     - **Primeknit/Synthetic** has the highest average price at **$220**.
     - **Flyknit** follows closely with an average price of **$158.82**.
     - **Nylon** and **Canvas** are the least expensive materials, with average prices around **$63**.
     - **Mesh/Leather** shows a significantly higher average price of **$180**, indicating a premium for this material 
-        combination.
+        combination. 
 
 - **Actionable Recommendations**:
     - **Pricing Strategy**: Materials like **Primeknit** and **Flyknit** are associated with higher prices. Brands using 
