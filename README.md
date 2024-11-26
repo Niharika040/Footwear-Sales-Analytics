@@ -104,11 +104,22 @@ After performing the above cleaning steps:
 ---
 
 ### 3. Gender-Based Preferences
-- **Objective**: Explore product type and brand preferences by gender.
+- **Objective**: Analyze preferences for product type and categories among gender groups to derive insights for marketing and inventory decisions.
 - **Steps**:
-  - Filtered data by `Gender` and analyzed preferences using Pivot Tables and charts.
-  - Created side-by-side bar charts for type and color preferences.
-  - Analyzed price preferences using averages and ranges.
+  - Filtered data by `Gender` and analyzed preferences  using Pivot Tables and charts.
+  - Created pivot table to analyze counts for each product type.
+  - Generated a Clustered Bar Chart to visualize preferences by product 
+    type.
+- **Insights and Recommendation**:
+    **Men's Preferences**:
+  - **Running** shoes are the most popular product category for men.
+  - **Casual** and **Skate** are also important but significantly less popular than running shoes.
+
+    **Women's Preferences**:
+  - **Running** shoes are the most popular product category for women as well, though **Casual** shoes are a close 
+       competitor.
+  - Women also have a higher preference for **Skate** and **Walking** products compared to men.
+  
 
 ---
 
